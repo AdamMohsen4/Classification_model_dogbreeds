@@ -6,10 +6,6 @@ This project demonstrates how to classify dog breeds using a decision tree class
 - [Overview](#overview)
 - [Features](#features)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Results](#results)
-- [File Descriptions](#file-descriptions)
-- [License](#license)
 
 ## Overview
 The aim of this project is to classify dog breeds into specific categories (e.g., Sporting, Hound, Toy, etc.) based on various attributes such as size, exercise requirements, lifespan, and grooming needs. The trained model uses entropy to split decision tree nodes and achieves measurable accuracy.
